@@ -1,7 +1,7 @@
 # Garftech Simple Webpage Project
 
 ## Project Overview
-This project involves the creation of a webpage for a fictional company called Garftech. The webpage includes information about the company, its services, job opportunities, and relevant links and was constrcuted using HTML and CSS.
+This project involves the creation of a webpage for a fictional company called Garftech. The webpage includes information about the company, its services, job opportunities, and relevant links and was constrcuted using HTML and CSS. This was my first experience using HTML and CSS.
 
 ## Webpage Link
 You can view the Garftech webpage [here](https://garftech-webpage.static.domains/).
