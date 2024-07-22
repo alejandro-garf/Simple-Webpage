@@ -9,6 +9,7 @@ This project involves the creation of a webpage for a fictional company called G
 - BoxModel Code: [Here](https://github.com/alejandro-garf/Simple-Webpage/blob/main/boxmodel.html)
 
 ## Webpage Links
+- Uploaded using Static.app
 - You can view the Garftech webpage [here](https://garftech-webpage.static.domains/).
 - You can view the boxmodel webpage [here](https://garftech-webpage.static.domains/boxmodel).
 
